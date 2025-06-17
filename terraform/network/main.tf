@@ -1,0 +1,1 @@
+# VNet and subnet definition for DTC demo
