@@ -122,4 +122,4 @@ Each of these is written with reusability and clarity in mind:
 
 ---
 
-Let me know if you'd like WAPI scripts included for auto-configuring DTC pools and monitors.
+
